@@ -13,6 +13,8 @@ header{
     background: #0079c1;
     justify-content: space-around;
     align-items: center;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
     display: flex;
     height: 7vh;
 }
@@ -64,4 +66,31 @@ header{
 .infos h2{
     font-family: 'Oswald', sans-serif;
     font-weight: 300;
+}
+.infos h3{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+}
+.infos p{
+    font-family: 'PT Serif', serif;
+}
+form h1{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    color: #314163;
+}
+form h3{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    color: #314163;
+}
+form dl{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    color: #314163;
+}
+button{
+    font-family: 'Oswald', sans-serif;
+    background: #4a85af;
+    color: #ffffff;
 }
