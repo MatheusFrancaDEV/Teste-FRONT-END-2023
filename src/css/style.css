@@ -5,7 +5,19 @@
 body{
     font-family: 'Oswald', sans-serif;
 }
-
 .logo{
-
+    display: flex;
+    justify-content: space-around;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: blue;
+}
+nav a{
+    text-decoration: none;
+    color: #fff;
+    list-style: none;
+    display: flex;
 }
