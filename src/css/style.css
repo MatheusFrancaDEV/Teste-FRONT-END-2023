@@ -6,18 +6,22 @@ body{
     font-family: 'Oswald', sans-serif;
 }
 .logo{
+    height: 29px;
+    width: 15px;
     display: flex;
-    justify-content: space-around;
 }
 nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
     background: blue;
+    height: 8vh;
 }
 nav a{
     text-decoration: none;
     color: #fff;
+}
+nav li{
     list-style: none;
     display: flex;
 }
