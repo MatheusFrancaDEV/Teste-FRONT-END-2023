@@ -5,3 +5,8 @@
 body{
     font-family: 'Oswald', sans-serif;
 }
+nav a{
+    color: #ffff;
+    text-decoration: none;
+    list-style: none;
+}
