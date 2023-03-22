@@ -1,6 +1,6 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin: 0%;
+    padding: 0%;
 }
 body{
     font-family: 'Oswald', sans-serif;
@@ -36,8 +36,8 @@ header{
     align-items: center;
     justify-content: space-between;
     margin-top: 90px;
-    background: #0079c1;
-    height: 7vh;
+    background: #0890df;
+    height: 9vh;
 }
 .rodape p{
     color: #ffffff;
@@ -47,4 +47,11 @@ header{
 .logo-rodape img{
     margin-left: 25px;
     margin-top: 2px;
+}
+.back-button{
+    text-decoration: none;
+    color: #314163;
+}
+.infos{
+
 }
