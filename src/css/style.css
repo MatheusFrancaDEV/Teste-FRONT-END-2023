@@ -1,27 +1,7 @@
 *{
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
 }
 body{
     font-family: 'Oswald', sans-serif;
-}
-.logo{
-    height: 29px;
-    width: 15px;
-    display: flex;
-}
-nav{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    background: blue;
-    height: 8vh;
-}
-nav a{
-    text-decoration: none;
-    color: #fff;
-}
-nav li{
-    list-style: none;
-    display: flex;
 }
