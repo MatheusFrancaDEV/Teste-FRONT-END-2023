@@ -31,6 +31,10 @@ header{
 .nav-bar a{
     color: white;
     text-decoration: none;
+    transition: 0.3s;
+}
+.nav-bar a:hover{
+    opacity: 0.7;
 }
 .rodape{
     display: flex;
