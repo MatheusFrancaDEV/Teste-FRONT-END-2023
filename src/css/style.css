@@ -53,5 +53,10 @@ header{
     color: #314163;
 }
 .infos{
-
+    margin-top: 50px;
+    color: #314163;
+}
+.infos h1{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200px;
 }
