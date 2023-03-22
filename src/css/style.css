@@ -5,12 +5,7 @@
 body{
     font-family: 'Oswald', sans-serif;
 }
-nav a{
-    color: #ffff;
-    text-decoration: none;
-    list-style: none;
-    transition: 0.3s;
-}
-nav a:hover{
-    opacity: 0.7;
+
+.logo{
+
 }
