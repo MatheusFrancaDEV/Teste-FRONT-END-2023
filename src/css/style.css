@@ -66,6 +66,7 @@ header{
 .infos{
     margin-top: 50px;
     color: #314163;
+    margin-left: 490px;
 }
 .infos h1{
     font-family: 'Oswald', sans-serif;
@@ -81,6 +82,10 @@ header{
 }
 .infos p{
     font-family: 'PT Serif', serif;
+}
+form{
+    margin-left: 490px;
+    margin-right: 490px;
 }
 form h1{
     font-family: 'Oswald', sans-serif;
