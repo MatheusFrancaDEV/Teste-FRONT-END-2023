@@ -108,16 +108,20 @@ form{
 form h1{
     font-family: 'Oswald', sans-serif;
     font-weight: 400;
+    margin-top: 20px;
     color: #314163;
+    margin-left: 10px;
 }
 form h3{
     font-family: 'Oswald', sans-serif;
     font-weight: 400;
     color: #314163;
     margin-top: 20px;
+    margin-left: 10px;
 }
 form input{
     margin-top: 10px;
+    margin-left: 10px;
     border-radius: 4px;
     font-family: 'Oswald', sans-serif;
     font-size: 17px;
@@ -129,10 +133,12 @@ form dl{
     font-family: 'Oswald', sans-serif;
     font-weight: 300;
     color: #314163;
+    margin-left: 10px;
 }
 button{
     font-family: 'Oswald', sans-serif;
     background: #4a85af;
+    margin-left: 10px;
     color: #ffffff;
 }
 .rodape{
