@@ -79,6 +79,7 @@ header{
 .infos h2{
     font-family: 'Oswald', sans-serif;
     font-weight: 400;
+    margin-block-end: 30px;
 }
 .infos h3{
     font-family: 'Oswald', sans-serif;
