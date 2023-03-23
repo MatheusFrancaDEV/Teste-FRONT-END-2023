@@ -63,6 +63,11 @@ header{
     transition: 0.3s;
     font-weight: 400;
 }
+.back-button img{
+    width: 25px;
+    display: flex;
+    justify-content: space-around;
+}
 .back-button a:hover{
     opacity: 0.7s;
 }
@@ -84,9 +89,11 @@ header{
 .infos h3{
     font-family: 'Oswald', sans-serif;
     font-weight: 400;
+    margin-block-end: 10px;
 }
 .infos p{
     font-family: 'PT Serif', serif;
+    margin-block-end: 30px;
 }
 form{
     margin-left: 490px;
