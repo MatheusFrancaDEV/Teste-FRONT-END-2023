@@ -135,7 +135,13 @@ form dl{
     color: #314163;
     margin-left: 10px;
 }
-button{
+form button{
+    font-family: 'Oswald', sans-serif;
+    background: #4a85af;
+    margin-left: 10px;
+    color: #ffffff;
+}
+.vaga button{
     font-family: 'Oswald', sans-serif;
     background: #4a85af;
     margin-left: 10px;
