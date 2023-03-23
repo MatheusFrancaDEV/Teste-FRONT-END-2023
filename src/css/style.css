@@ -138,6 +138,8 @@ form dl{
 form button{
     font-family: 'Oswald', sans-serif;
     background: #4a85af;
+    width: 165px;
+    height: 40px;
     margin-left: 10px;
     color: #ffffff;
 }
@@ -145,6 +147,8 @@ form button{
     font-family: 'Oswald', sans-serif;
     background: #4a85af;
     margin-left: 10px;
+    width: 165px;
+    height: 40px;
     color: #ffffff;
 }
 .rodape{
