@@ -114,10 +114,14 @@ form h3{
     font-family: 'Oswald', sans-serif;
     font-weight: 400;
     color: #314163;
+    margin-top: 20px;
 }
 form input{
+    margin-top: 10px;
+    border-radius: 5px;
     width: 422px;
     height: 33px;
+    color: #314163;
 }
 form dl{
     font-family: 'Oswald', sans-serif;
