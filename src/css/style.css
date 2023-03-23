@@ -105,6 +105,9 @@ form{
     margin-left: 490px;
     margin-right: 490px;
 }
+form fieldset{
+    margin-right: 450px;
+}
 form h1{
     font-family: 'Oswald', sans-serif;
     font-weight: 400;
@@ -131,14 +134,19 @@ form input{
 }
 .anexar-curriculo{
     display: flex;
+    justify-content: space-between;
+    margin-top: 12px;
+    margin-right: 10px;
+    margin-block-end: 45px;
 }
-form dl{
+.anexar-curriculo dl{
     font-family: 'Oswald', sans-serif;
     font-weight: 300;
     color: #314163;
+    margin-right: 50px;
     margin-left: 10px;
 }
-form button{
+.anexar-curriculo button{
     font-family: 'Oswald', sans-serif;
     background: #4a85af;
     width: 165px;
