@@ -118,10 +118,12 @@ form h3{
 }
 form input{
     margin-top: 10px;
-    border-radius: 5px;
+    border-radius: 4px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 17px;
+    border-color: #4a85af;
     width: 422px;
     height: 33px;
-    color: #314163;
 }
 form dl{
     font-family: 'Oswald', sans-serif;
