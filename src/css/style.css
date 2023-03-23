@@ -66,6 +66,7 @@ header{
     text-decoration: none;
     transition: 0.3s;
     font-weight: 400;
+    margin-left: 5px;
 }
 .back-button img{
     width: 25px;
