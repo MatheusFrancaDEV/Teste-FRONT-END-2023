@@ -129,6 +129,9 @@ form input{
     width: 422px;
     height: 33px;
 }
+.anexar-curriculo{
+    display: flex;
+}
 form dl{
     font-family: 'Oswald', sans-serif;
     font-weight: 300;
