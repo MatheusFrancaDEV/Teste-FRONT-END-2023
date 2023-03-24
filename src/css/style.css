@@ -1,6 +1,6 @@
 *{
-    margin: 0%;
-    padding: 0%;
+    margin: 0;
+    padding: 0;
 }
 body{
     background-color: #ffffff;
@@ -110,10 +110,11 @@ header{
     background-color: #314163;
 }
 .background-img img{
-    margin-top: 650px;
+    margin-top: 299px;
     margin-left: -142px;
 }
 form{
+    display: block;
     margin-left: 490px;
     margin-right: 490px;
 }
@@ -126,6 +127,14 @@ form h1{
     font-weight: 400;
     margin-top: 20px;
     color: #314163;
+    margin-left: 10px;
+}
+form h2{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    color: #314163;
+    margin-top: 20px;
+    margin-block-end: -21px;
     margin-left: 10px;
 }
 form h3{
