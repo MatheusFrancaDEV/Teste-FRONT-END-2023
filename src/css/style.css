@@ -145,12 +145,19 @@ form input{
     width: 422px;
     height: 33px;
 }
-.more-infos .number{
-    width: 173px;
+.more-infos{
+    display: grid;
+    justify-items: right;
+}
+.more-infos .street{
+    display: grid;
+    justify-items: right;
+    width: 234px;
     height: 33px;
 }
-.more-infos h3{
-    margin-top: 15px;
+.more-infos .state{
+    width: 234px;
+    height: 33px;
 }
 .anexar-curriculo{
     display: flex;
