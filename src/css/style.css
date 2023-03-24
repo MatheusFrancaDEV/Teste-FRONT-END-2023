@@ -101,6 +101,17 @@ header{
     font-family: 'PT Serif', serif;
     margin-block-end: 30px;
 }
+.background-img{
+    width: 250px;
+    height: 1800px;
+    margin-block-end: 180px;
+    margin-left: 1290px;
+    margin-top: -1757px;
+    background-color: #314163;
+}
+.background-img img{
+    margin-left: -142px;
+}
 form{
     margin-left: 490px;
     margin-right: 490px;
