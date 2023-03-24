@@ -164,16 +164,20 @@ form input{
     border: none;
     margin-left: 10px;
     color: #ffffff;
+    cursor: pointer;
 }
-.vaga button{
+.envia-curriculo{
     font-family: 'Oswald', sans-serif;
     background: #314163;
     margin-left: 10px;
-    align-items: center;
+    font-size: 20px;
+    margin-top: 32px;
+    margin-left: 305px;
     width: 165px;
     height: 40px;
     border: none;
     color: #ffffff;
+    cursor: pointer;
 }
 .rodape{
     font-family: 'Oswald', sans-serif;
