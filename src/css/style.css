@@ -145,13 +145,26 @@ form input{
     width: 422px;
     height: 33px;
 }
+form .number{
+    width: 173px;
+    height: 33px;
+}
+form .city{
+    display: grid;
+    width: 173px;
+    height: 33px;
+}
 .more-infos{
     display: grid;
     justify-items: right;
+    margin-top: -187.3px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.more-infos h3{
+    margin-right: 195px;
 }
 .more-infos .street{
-    display: grid;
-    justify-items: right;
     width: 234px;
     height: 33px;
 }
