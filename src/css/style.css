@@ -169,6 +169,7 @@ form input{
     font-family: 'Oswald', sans-serif;
     background: #314163;
     margin-left: 10px;
+    align-items: center;
     width: 165px;
     height: 40px;
     border: none;
