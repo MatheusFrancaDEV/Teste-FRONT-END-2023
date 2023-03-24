@@ -123,10 +123,6 @@ form h3{
     margin-top: 20px;
     margin-left: 10px;
 }
-.more-infos input{
-    display: flex;
-    justify-content: space-between;
-}
 form input{
     margin-top: 10px;
     margin-left: 10px;
