@@ -1,9 +1,9 @@
-let form
-let nome 
-let email
-let cep
-let endereco
-let numero
-let bairro
-let cidade
-let estado
+let form = document.getElementById("#form")
+let nome = document.getElementById("#name")
+let email = document.getElementById("#email")
+let cep = document.getElementById("#cep")
+let endereco = document.getElementById("#adress")
+let numero = document.getElementById("#number")
+let bairro = document.getElementById("#street")
+let cidade = document.getElementById("#city")
+let estado = document.getElementById("#state")
