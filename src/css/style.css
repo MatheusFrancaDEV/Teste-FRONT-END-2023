@@ -110,19 +110,20 @@ main p{
 }
 form{
     display: block;
-    margin-left: 490px;
-    margin-right: 490px;
+    margin-left: 49vh;
+    margin-right: 49vh;
 }
 form fieldset{
-    margin-right: 450px;
+    position: relative;
+    margin-right: 51vh;
     color: #314163;
 }
 form h1{
     font-family: 'Oswald', sans-serif;
     font-weight: 400;
-    margin-top: 20px;
+    margin-top: 2vh;
     color: #314163;
-    margin-left: 10px;
+    margin-left: 1.4vh;
 }
 form h2{
     font-family: 'Oswald', sans-serif;
