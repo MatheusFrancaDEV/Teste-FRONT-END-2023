@@ -129,63 +129,62 @@ form h2{
     font-family: 'Oswald', sans-serif;
     font-weight: 400;
     color: #314163;
-    margin-top: 20px;
-    margin-block-end: -21px;
-    margin-left: 10px;
+    margin-top: 2vh;
+    margin-block-end: -1.3vh;
+    margin-left: 1.4vh;
 }
 form h3{
     font-family: 'Oswald', sans-serif;
     font-weight: 400;
     color: #314163;
-    margin-top: 20px;
-    margin-left: 10px;
+    margin-top: 2vh;
+    margin-left: 1vh;
 }
 form input{
-    margin-top: 10px;
-    margin-left: 10px;
-    border-radius: 4px;
+    margin-top: 0.5vh;
+    margin-left: 0.9vh;
+    border-radius: 0.7vh;
     font-family: 'Oswald', sans-serif;
-    font-size: 17px;
+    font-size: 1.2rem;
     border-color: #314163;
-    width: 422px;
-    height: 33px;
+    width: 42.2vh;
+    height: 3.3vh;
 }
 form .number{
-    width: 173px;
-    height: 33px;
+    width: 17vh;
+    height: 3vh;
 }
 form .city{
-    display: grid;
-    width: 173px;
-    height: 33px;
+    width: 17vh;
+    height: 3vh;
 }
 .more-infos{
     display: grid;
     justify-items: right;
-    margin-top: -187.3px;
-    margin-left: 15px;
-    margin-right: 15px;
+    margin-top: -17.8vh;
+    margin-left: 10vh;
+    margin-right: 1.9vh;
 }
 .more-infos h3{
-    margin-right: 195px;
+    margin-right: 19.5vh;
 }
 .more-infos .street{
-    width: 234px;
-    height: 33px;
+    width: 23.4vh;
+    height: 3.3vh;
 }
 .more-infos .state{
-    width: 234px;
-    height: 33px;
+    width: 23.4vh;
+    height: 3.3vh;
 }
 .anexar-curriculo{
     display: flex;
     justify-content: space-between;
-    margin-top: 12px;
-    margin-right: 10px;
-    margin-block-end: 42px;
+    margin-top: 1.2vh;
+    margin-right: 1vh;
+    margin-block-end: 4.2vh;
 }
 .anexar-curriculo h3{
-    margin-top: 45px;
+    margin-top: 4.5vh;
 }
 .anexar-curriculo dl{
     font-family: 'Oswald', sans-serif;
