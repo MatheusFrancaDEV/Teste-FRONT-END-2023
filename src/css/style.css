@@ -39,7 +39,6 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-top: vh;
     background: #0890df;
     height: 9vh;
 }
@@ -50,21 +49,19 @@ header{
     margin-right: 5vh;
 }
 .logo-rodape img{
-    margin-left: 25px;
-    margin-top: 2px;
+    margin-left: 3vh;
 }
 .back-button{
     display: flex;
     color: #314163;
     font-family: 'Oswald', sans-serif;
-    margin-top: 50px;
-    margin-left: 490px;
+    margin-top: 8vh;
+    margin-left: 49vh;
 }
 .back-button a{
     text-decoration: none;
-    transition: 0.3s;
     font-weight: 400;
-    margin-left: 5px;
+    margin-left: 0.3vh;
 }
 .back-button img{
     width: 25px;
