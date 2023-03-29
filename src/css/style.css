@@ -190,22 +190,21 @@ form .city{
     font-family: 'Oswald', sans-serif;
     font-weight: 300;
     color: #314163;
-    margin-right: 50px;
-    margin-left: 10px;
+    margin-right: 5vh;
 }
 .anexar-curriculo input[type='file']{
     display: none;
 }  
 .anexar-curriculo label{
-    margin-top: 12px;
+    margin-top: 1.2vh;
     text-align: center;
     font-family: 'Oswald', sans-serif;
-    font-size: 20px;    
+    font-size: 1.3rem;    
     background: #4a85af;
-    width: 165px;
-    height: 40px;
+    width: 16vh;
+    height: 4vh;
     border: none;
-    margin-left: 10px;
+    margin-left: 1vh;
     color: #ffffff;
     cursor: pointer;
     transition: 0.3s;
