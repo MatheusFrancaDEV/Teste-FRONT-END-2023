@@ -1,9 +1,13 @@
 const form = document.getElementById("#form")
-let nome = document.getElementById("#name")
-let email = document.getElementById("#email")
-let cep = document.getElementById("#cep")
-let endereco = document.getElementById("#adress")
-let numero = document.getElementById("#number")
-let bairro = document.getElementById("#street")
-let cidade = document.getElementById("#city")
-let estado = document.getElementById("#state")
+const nome = document.getElementById("#name")
+
+form.addEventListener("submit", (event) => {
+    event.preventDefault();
+
+    if(nome.value === ""){
+        alert("OIII")
+        return
+    }
+
+    form.submit()
+})
