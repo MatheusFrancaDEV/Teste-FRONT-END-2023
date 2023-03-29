@@ -79,22 +79,22 @@ main{
 main h1{
     font-family: 'Oswald', sans-serif;
     font-weight: 400;
-    margin-top: 50px;
-    margin-block-end: 35px;
+    margin-top: 5vh;
+    margin-block-end: 3vh;
 }
 main h2{
     font-family: 'Oswald', sans-serif;
     font-weight: 400;
-    margin-block-end: 30px;
+    margin-block-end: 2.5vh;
 }
 main h3{
     font-family: 'Oswald', sans-serif;
     font-weight: 400;
-    margin-block-end: 10px;
+    margin-block-end: 1vh;
 }
 main p{
     font-family: 'PT Serif', serif;
-    margin-block-end: 30px;
+    margin-block-end: 4vh;
 }
 .background-img{
     width: 250px;
