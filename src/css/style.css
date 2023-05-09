@@ -243,9 +243,6 @@ form .city{
     display: none;
     color: #fff;
 }
-.mobile-nav:hover{
-    background-color: #a7a5a5;
-}
 @media(max-width:839px){
     main{
         margin-left: 50px;
