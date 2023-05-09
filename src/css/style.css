@@ -267,6 +267,9 @@ form .city{
     .more-infos .state{
         width: 20.4vh;
     }
+    .more-infos h3{
+        margin-right: 15.5vh;
+    }
 }
 @media(max-width: 979px) and (orientation: portrait){
     .nav-bar{
