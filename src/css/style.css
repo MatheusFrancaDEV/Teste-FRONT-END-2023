@@ -1,6 +1,6 @@
 *{
-    margin: 0%;
-    padding: 0%;
+    margin: 0;
+    padding: 0;
 }
 
 body{
@@ -76,7 +76,7 @@ header{
 main{
     margin-top: 50px;
     color: #314163;
-    margin-left: 49vh;
+    margin: 2vh;
 }
 main h1{
     font-family: 'Oswald', sans-serif;
@@ -97,6 +97,11 @@ main h3{
 main p{
     font-family: 'PT Serif', serif;
     margin-block-end: 4vh;
+}
+@media(max-width:1429px){
+    .background-img{
+        display: none;
+    }
 }
 .background-img{
     width: 250px;
@@ -232,4 +237,25 @@ form .city{
 }
 .envia-curriculo button:hover{
     opacity: 0.7;
+}
+.mobile-nav{
+    display: none;
+    color: #fff;
+}
+@media(max-width:839px){
+    .envia-curriculo{
+        display: none;
+    }
+    form{
+        display: none;
+    }
+}
+@media(max-width: 979px) and (orientation: portrait){
+    .nav-bar{
+        display: none;
+    }
+    .mobile-nav{
+        display: block;
+        font-size: 2rem;
+    }
 }
