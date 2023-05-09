@@ -261,16 +261,11 @@ form .city{
         font-size: 0.9rem;
         margin-left: 2vh;
     }
-    .more-infos{
-        margin-top: -17.95vh;
-    }
     .more-infos .street{
         width: 20.4vh;
-        height: 3,5vh;
     }
     .more-infos .state{
         width: 20.4vh;
-        height: 3,5vh;
     }
     .more-infos h3{
         margin-right: 15.5vh;
