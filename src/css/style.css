@@ -77,6 +77,7 @@ main{
     margin-top: 50px;
     color: #314163;
     margin: 2vh;
+    margin-left: 49vh;
 }
 main h1{
     font-family: 'Oswald', sans-serif;
@@ -243,11 +244,28 @@ form .city{
     color: #fff;
 }
 @media(max-width:839px){
+    main{
+        margin-left: 50px;
+    }
     .envia-curriculo{
-        display: none;
+        margin-left: 28vh;
+        margin-block-end: 2vh;
     }
     form{
-        display: none;
+        margin-left: 50px;
+    }
+    .back-button{
+        margin-left: 49px;
+    }
+    .anexar-curriculo dl{
+        font-size: 0.9rem;
+        margin-left: 2vh;
+    }
+    .more-infos .street{
+        width: 20.4vh;
+    }
+    .more-infos .state{
+        width: 20.4vh;
     }
 }
 @media(max-width: 979px) and (orientation: portrait){
